@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Madhushree Kurri
+- :round_pushpin: Missouri
+- :mortar_board: Currently: MS ACS student at Northwest Missouri State University
+- :book: Currently learning Java and Html
+- :bulb: Fun Fact: People once ate arsenic to improve their skin
 <!--
 **pikachu1806/pikachu1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
